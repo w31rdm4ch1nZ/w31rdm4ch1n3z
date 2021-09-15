@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w31rdm4ch1n3z
-- 👀 I’m interested in crypto/blockachain and cybersecurity.
+- 👀 I’m interested in crypto/blockchain and cybersecurity.
 - 🌱 I’m currently learning Solidity, Web Pen Test, RE, IoT hacking, etc.
 - 💞️ I’m looking to collaborate on new projects linked to the blockchain's ecosystem, be it DeFi, NFT or Web3.
 - 📫 You can reach me with w31rdm4ch1n3z@protonmail.com
